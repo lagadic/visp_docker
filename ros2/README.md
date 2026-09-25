@@ -1,7 +1,7 @@
 ROS 2 Docker Development Environment
 ====================================
 
-This guide explains how to build, manage, and use a Docker environment tailored for developing and testing ROS 2 packages (such as (visp_tk)[https://github.com/lagadic/visp_tk].
+This guide explains how to build, manage, and use a Docker environment tailored for developing and testing ROS 2 packages (such as [visp_tk](https://github.com/lagadic/visp_tk).
 
 ## 1. Prerequisites
 
